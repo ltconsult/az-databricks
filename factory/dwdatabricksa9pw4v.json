@@ -1,0 +1,9 @@
+{
+	"name": "dwdatabricksa9pw4v",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "da8d451a-8905-4a5e-978b-44d876dc5872",
+		"tenantId": "d9ea3aba-81c1-4c31-9ec2-a2c4611bd2ac"
+	}
+}
